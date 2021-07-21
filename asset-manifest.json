@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/foursquare-API/static/css/main.f0d84105.chunk.css",
+    "main.js": "/foursquare-API/static/js/main.1a8de0ec.chunk.js",
+    "main.js.map": "/foursquare-API/static/js/main.1a8de0ec.chunk.js.map",
+    "runtime-main.js": "/foursquare-API/static/js/runtime-main.ab5ed8b1.js",
+    "runtime-main.js.map": "/foursquare-API/static/js/runtime-main.ab5ed8b1.js.map",
+    "static/js/2.c0fcd41a.chunk.js": "/foursquare-API/static/js/2.c0fcd41a.chunk.js",
+    "static/js/2.c0fcd41a.chunk.js.map": "/foursquare-API/static/js/2.c0fcd41a.chunk.js.map",
+    "static/js/3.cd438ad3.chunk.js": "/foursquare-API/static/js/3.cd438ad3.chunk.js",
+    "static/js/3.cd438ad3.chunk.js.map": "/foursquare-API/static/js/3.cd438ad3.chunk.js.map",
+    "index.html": "/foursquare-API/index.html",
+    "static/css/main.f0d84105.chunk.css.map": "/foursquare-API/static/css/main.f0d84105.chunk.css.map",
+    "static/js/2.c0fcd41a.chunk.js.LICENSE.txt": "/foursquare-API/static/js/2.c0fcd41a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/foursquare-API/static/media/venues pic.5210df4e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab5ed8b1.js",
+    "static/js/2.c0fcd41a.chunk.js",
+    "static/css/main.f0d84105.chunk.css",
+    "static/js/main.1a8de0ec.chunk.js"
+  ]
+}
