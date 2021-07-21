@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  margin-top: 2%;
+}
+body{
+  background-image: url('./venues\ pic.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-color: rgb(236, 198, 120);
+}
+button{
+  width: 150px;
+  background: rgb(150, 150, 235);
+  border-radius: 15px;
+}
+li{
+  background: rgba(96, 185, 219, 0.466);
+  padding: 1px;
+}
+input{
+  padding: 5px 0;
+  margin-right: 20px;
+  border-radius: 10px;
+}
